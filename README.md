@@ -55,7 +55,7 @@ The forecast model is a work in progress, with ongoing efforts to enhance accura
 
 ## Outline of Project
 
-- [Link to Notebook 1]()
+- [Link to Notebook 1](https://github.com/fcely/CapstoneAI/blob/main/SalesProjections.ipynb)
 
 ---
 
