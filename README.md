@@ -1,4 +1,3 @@
-# CapstoneAI
 <!DOCTYPE html>
 <html lang="en">
 
