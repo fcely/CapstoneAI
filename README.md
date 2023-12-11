@@ -73,9 +73,7 @@ This results object forms a foundation for informed decision-making, fostering c
 2. **Aggregate Sales Data:** Consider combining historical sales data from all stores and use the collective forecast as an additional exogenous variable to account for regional trends.
 3. **Complete Exogenous Variables:** Acquire remaining exogenous variables through APIs for a fully automated model.
 4. **Database Integration:** Develop a mechanism to submit results to an SQL database, facilitating easy access and utilization by the company.
-5. **Other Models:** Use RNN
-
- to create an LTSM model and also a simple linear regression, then add all of them into an ensemble model.
+5. **Other Models:** Use RNN to create an LTSM model and also a simple linear regression, then add all of them into an ensemble model.
 6. **Images:** Use CNN to identify the status of the displays (planograms) every day and feed that as inputs to the model. Stores with optimal merchandising might have better sales than stores not looking as well; this system should help understand why some stores are under or overperforming and predict the daily sales given an image of the display taken early in the morning.
 
 ---
